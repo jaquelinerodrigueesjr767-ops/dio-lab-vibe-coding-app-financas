@@ -1,5 +1,8 @@
+
  Entregando o Desafio na DIO, Criando um app de organização financeira Vide Coding, PRD refinado com Prompt no Copilot e finalizado no Lovable.
-**markdown
+
+***markdown
+
 PRD – Aplicativo de Organização de Finanças Pessoais Conversacional
 
 1. Contexto
